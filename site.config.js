@@ -16,7 +16,7 @@ const CONFIG = {
       href: "AutoTubes.xyz",
     },
     {
-      canvas: `AutoTubes`,
+      canvas: `AutoTubes canvas`,
       href: "canvas.AutoTubes.xyz",
     }
   ],
