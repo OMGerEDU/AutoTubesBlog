@@ -12,9 +12,13 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `AutoTubes`,
+      href: "AutoTubes.xyz",
     },
+    {
+      canvas: `AutoTubes`,
+      href: "canvas.AutoTubes.xyz",
+    }
   ],
   // blog setting (required)
   blog: {
