@@ -15,12 +15,12 @@ const CONFIG = {
   projects: [
     {
       name: `AutoTubes`,
-      href: "https://autotubes.xyz",
+      href: "AutoTubes.xyz",
+    },
+    {
+      canvas: `AutoTubes canvas`,
+      href: "canvas.AutoTubes.xyz",
     }
-    // {
-    //   name: `AutoTubes canvas`,
-    //   href: "https://canvas.autotubes.xyz",
-    // }
   ],
   // blog setting (required)
   blog: {
