@@ -16,11 +16,11 @@ const CONFIG = {
     {
       name: `AutoTubes`,
       href: "https://autotubes.xyz",
-    },
-    {
-      name: `AutoTubes canvas`,
-      href: "https://canvas.autotubes.xyz",
     }
+    // {
+    //   name: `AutoTubes canvas`,
+    //   href: "https://canvas.autotubes.xyz",
+    // }
   ],
   // blog setting (required)
   blog: {
