@@ -8,7 +8,7 @@ const CONFIG = {
     role: "AutoTubes founder",
     bio: "I show you the way.",
     email: "support@autotubes.xyz",
-    linkedin: "Omer Dahan",
+    linkedin: "OMGer",
     github: "OMGerEdu",
     instagram: "",
   },
