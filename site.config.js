@@ -4,7 +4,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "OMGer",
-    image: "/logo-barlog.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/logo-barlog.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "AutoTubes founder",
     bio: "I show you the way.",
     email: "support@autotubes.xyz",
