@@ -4,8 +4,8 @@ import Link from "next/link"
 const NavBar: React.FC = () => {
   const links =
       [
-          { id: 1, name: "About", to: "/about" }
-          // { id: 1, name: "AboutToDoWhat", to: "/about" }
+          { id: 1, name: "About", to: "/about" },
+          { id: 1, name: "AboutToDoWhat", to: "/about" }
 
       ]
   return (
